@@ -84,11 +84,12 @@ max-width: 390px;
 
 .step-img-wrapper{
   position: relative;
-  background-color: #01996D;
+
   padding-bottom: 126%;
 }
 
 .step-img {
+  border-radius: 8px;
   position: absolute;
   left: 0;
   top: 0;
