@@ -66,7 +66,7 @@ margin-top: -1px;
     }
   }
 
-  @media(max-width:992px){
+  @media(max-width:991px){
     .header-nav,.header-login{
       display: none;
     }

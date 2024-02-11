@@ -6,6 +6,11 @@ body{
   color: #424242;
   /* min-width: 1600px; */
 }
+@media(max-width:991px){
+  body{
+    font-size: 18px;
+  }
+}
 /*Utility*/
 .none{
   display: none !important;
