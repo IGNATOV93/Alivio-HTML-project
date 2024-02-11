@@ -4,6 +4,7 @@ body{
   font-size: 20px;
   line-height: 1.5%;
   color: #424242;
+  /* min-width: 1600px; */
 }
 /*Utility*/
 .none{
@@ -29,6 +30,12 @@ body{
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
+}
+@media(max-width: 1399px)
+{
+  .container {
+    width: 100%;
+  }
 }
 .container-whide{
   width: 1536px;
