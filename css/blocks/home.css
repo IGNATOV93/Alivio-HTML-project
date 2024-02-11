@@ -1,6 +1,6 @@
 .home {
   position: relative;
-  padding: 175px 0;
+  padding: 175px;
   min-height : 895px;
 }
 
@@ -8,17 +8,20 @@
   max-width: 440px;
 }
 .home-heading {
+
   margin-bottom: 30px;
   color: #01996D;
   font-family: 'Georgia', serif;
   font-weight: 700;
-  font-size: 65px;
+  font-size: 65px; 
+  line-height: 1.15;
 }
 .home-text {
   
   color:#484848 ;
   line-height: 144.5%;
   max-width: 430px;
+ 
 }
 .home-text+ * {
   
