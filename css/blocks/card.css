@@ -54,3 +54,10 @@ list-style-position: inside;
 .card ul li + li {
 margin-top: 30px;
 }
+@media(max-width: 500px){
+ 
+  .card{
+    max-width: 296px;
+  
+  }
+}
