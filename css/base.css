@@ -42,6 +42,13 @@ body{
     width: 100%;
   }
 }
+
 .container-whide{
   width: 1536px;
+}
+
+@media (max-width: 1535px){
+  .container-whide{
+    width: 100%;
+  }
 }
